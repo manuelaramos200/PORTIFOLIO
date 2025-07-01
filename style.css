@@ -58,5 +58,14 @@ body {
     display: block;
     margin: 0 auto 20px auto;
   }
+  .projeto img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,255,204,0.2);
+    display: block;
+    margin: 15px auto;
+  }
   
   
